@@ -1,0 +1,59 @@
+#page{
+	font-family: Impact;
+	color:#EA0000;
+	text-align: center;
+	border: 5px solid #53FF53;
+	font-size: 60px;
+}
+.page{
+	list-style-type: none;
+	text-align:center;
+	font-size: 30px;
+}
+a:link{
+    text-decoration:none;
+    color:#008B45;
+}
+a:hover{
+    color:#00FF00;
+}
+a:visited{
+    color:#EE9A00;
+}
+span{
+	color:#EA0000;
+	font-family: cursive;
+}
+#one{
+	border: 5px dashed red;
+	font-family: monospace ;
+	text-align:center;
+}
+body{
+	background-color: #DCB5FF;
+}
+#games{
+	font-family: impact;
+	color: #FF8000;
+	text-align: center;
+	border: 5px solid #53FF53;
+	font-size: 60px;
+}
+.games{
+	list-style-type: none;
+	text-align:center;
+	font-size: 30px;
+}
+#famous{
+	font-family: impact;
+	color: #0080FF;
+	text-align: center;
+	border: 5px solid #53FF53;
+	font-size: 60px;
+}
+.famous{
+	list-style-type: none;
+	text-align:center;
+	font-size:30px;
+
+}

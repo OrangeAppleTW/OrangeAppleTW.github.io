@@ -1,0 +1,30 @@
+h1{
+	font-size:70px;
+	font-family: 'Sniglet', cursive;
+	text-align:center;
+	color:#CC66FF;
+}
+
+div.banner{
+	height:350px;
+	width:100%;
+	background:url(https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xfp1/t1.0-9/1538885_822162101145780_1779380324169543846_n.jpg) center center;
+}
+body{
+	background-color: #99FFFF;
+}
+p{
+	font-family:微軟正黑體 ;
+	color:#FF0099;
+	font-size: 25px;
+}
+td img{
+	width:120px;
+	height:200px;
+	float:left;
+}
+td p{
+	font-family:微軟正黑體 ;
+	color:#3300FF;
+	font-size:15px;
+}

@@ -1,0 +1,123 @@
+body{
+	background-image: url(http://m.99wallpaper.com/images/7_1306/Black%20Background%20Wood%20-%202560x1600%20by%20Freeman.jpg);
+}
+h2{
+	color: #E66962;
+	font-size: 20px;
+
+}
+#actor{
+	text-align: center;
+	font-family: Monospace;
+	font-size: 400%;
+	color: #d8d827;
+	border: 4px dashed blue;
+	border-radius: 5px;
+	background-color: #D87927;
+	position: ;
+	width: 50%;
+	margin-top: -10px;
+	position: absolute;
+	float: left;
+}
+#title{
+	text-align: center;
+	font-family: Monospace;
+	font-size: 400%;
+	color: #d8d827;
+	border: 4px dashed blue;
+	border-radius: 5px;
+	background-color: #D87927;
+	position: ;
+	width: 50%;
+	margin-top: -10px;
+	float: right;
+}
+#name{
+	font-size: 150%;
+	font-family: Comic Sans MS;
+	color: #05F537;
+}
+#name a:hover{
+	text-decoration: underline;
+	color: white;
+}
+.poster{
+	border-radius: 10px;
+	border: 2px dashed #FFAF00;
+}
+#p{
+	font-family: forte;
+		background: -webkit-linear-gradient(#FF3399,#FFFFFF);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+#movie{
+	border: 4px solid blue;
+	margin: auto;
+	margin-top: 5%;
+}
+#my{
+	background: rgba(167,7,167,0.8);
+	border: 3px dashed #ffffff;
+	border-radius: 10px;
+	color: #FF66CC;
+}
+#strong{
+	color: #4446B5;
+	text-align: center;
+	font-size: 150%;
+	border: 4px solid blue;
+	background: rgba(255,255,255,0.8);
+}
+#hot{
+	font-size: 100%;
+	font-family: forte;
+	color: #007A00;
+	background: rgba(252,255,155,0.8);
+	border: 4px solid blue;
+}
+table,td{
+	margin-top: 50px;
+	text-align: center;
+	border: 4px solid blue;	
+}
+table,p{
+	color: #05F537;
+	font-family: Verdana;
+	font-size: 30px;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: #00ffff;
+}
+div p{
+	font-size: 50px;
+	font-family: Serif;
+	color: 	#00B800;
+}
+a:hover{
+	color: 	#19FF19;
+}
+#facebook{
+	border-radius: 10px;
+	font-size: 30px;
+	background-color: #25B3F8;
+  	margin: auto;
+  	margin-top: 50px;
+  	border: 4px dashed #ffffff;
+  	padding: 20 30 20 30px;
+  	width: 20%;
+  	margin-bottom: 15px;
+ }
+ div p{
+ 	font-size: 30px;
+ 	color: #01258D;
+ 	font-family: cursive;
+ 	display: inline;
+ 	margin-left: 40px;
+}
+ div p:hover{
+ 	color: #ffffff;
+}

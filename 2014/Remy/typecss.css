@@ -1,0 +1,72 @@
+.one{
+	display: block;
+	margin:0 auto;
+	width:600px;
+	height:450px;
+}
+ul{
+	list-style: none;
+	font-family: Verdana;
+	text-align: center;
+	border: 3px dashed black;
+}
+h1:first-child{
+	font-family:cursive;
+	color:red;
+	text-align: center;
+}
+body{
+	background-color: #FFD9EC;
+}
+#DA{
+	font-family: cursive;
+	color:orange;
+	text-align: center;
+}
+
+.two{
+	display: block;
+	margin:0 auto;
+	width:600px;
+	height:450px;
+}
+ul{
+	list-style: none;
+	font-family: Verdana;
+	text-align: center;
+	border: 3px dashed black;
+}
+
+.three{
+	display: block;
+	margin:0 auto;
+	width:600px;
+	height:450px;
+}
+#SH{
+	font-family: cursive;
+	color:#F9F900;
+	text-align: center;
+}
+#MA{
+	font-family: cursive;
+	color:#00EC00;
+	text-align: center;
+}
+.four{
+	display: block;
+	margin:0 auto;
+	width:600px;
+	height:450px;
+}
+#YO{
+	font-family: cursive;
+	color:#2828FF;
+	text-align: center;
+}
+.five{
+	display: block;
+	margin:0 auto;
+	width:600px;
+	height:450px;
+}

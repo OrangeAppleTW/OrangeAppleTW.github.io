@@ -1,0 +1,43 @@
+html body{
+background-color: black;
+}
+
+#start_title{
+	font-size: 70px;
+	text-align:center;
+	font-family: Ariel;
+	background-color: #FF9933;
+	color: #000000;
+}
+
+p{
+	font-size: 20px;
+	color: white;
+}
+#titles{
+	background-color: orange;
+	display:inline-block;
+}
+#titles1{
+	display:inline-block;
+	background-color: #FF6600;
+}
+#titles2{
+	display:inline-block;
+	background-color: #FF6600;
+}
+#titles3{
+	display:inline-block;
+	background-color: #FF6600;
+}
+#titles4{
+	display:inline-block;
+	color: blue;
+}
+#titles5{
+	display:inline-block;
+	color: blue;
+}
+span{
+	display: inline-block;
+}

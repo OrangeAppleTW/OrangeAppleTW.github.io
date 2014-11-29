@@ -1,0 +1,91 @@
+body{
+	background-image: url(http://m.99wallpaper.com/images/7_1306/Black%20Background%20Wood%20-%202560x1600%20by%20Freeman.jpg);
+}
+table,td{
+	border: 3px solid #3399FF;
+	margin: auto;
+	color: yellow;
+	font-size: 150%;
+	font-family: Monospace;
+	text-align: center;
+	margin-top: 50px;
+	margin: auto;
+}
+th{
+	border: 4px solid #3399FF;
+	margin-top: 20px;
+	font-size: 50px;
+	background: rgba(0,255,0,0.8);
+}
+#actor{
+	text-align: center;
+	font-family: Monospace;
+	font-size: 200%;
+	border: 2px dashed blue;
+	background-color: #D87927;
+	position: ;
+	width: 50%;
+	margin-top: -30px;
+	position: absolute;
+	float: left;
+	margin-bottom: 20px;
+}
+a:hover{
+	color: #ffffff;
+}
+a{
+	color: #d8d827;
+	text-decoration: none;
+}
+#title{
+	text-align: center;
+	font-family: Monospace;
+	font-size: 200%;
+	border: 2px dashed blue;
+	background-color: #D87927;
+	width: 50%;
+	margin-top: -30px;
+	float: right;
+	margin-bottom: 20px;
+}
+.name{
+	font-family: algerian;
+}
+#favorite{
+	border: 4px dashed #FF6600;
+	border-radius: 10px;
+}
+#my{
+	border: 5px solid #00ff33;
+	border-radius: 5px;
+}
+.logo{
+	font-size: 200%;
+	color: #ffffff;
+	font-family: cursive;
+	border-radius: 10px;
+	font-size: 30px;
+	margin-bottom: 50px;
+	margin: auto;
+}
+#facebook{
+	border-radius: 10px;
+	font-size: 30px;
+	background-color: #6e2892;
+  	margin: auto;
+  	margin-top: 50px;
+  	border: 4px dashed #ffffff;
+  	padding: 20 30 20 30px;
+ 	margin-bottom: 15px;
+ 	width: 20%;
+ }
+ div p{
+ 	font-size: 30px;
+ 	color: #FF9900;
+ 	font-family: cursive;
+ 	display: inline;
+ 	margin-left: 40px;
+ }
+ div p:hover{
+ 	color: #ffffff;
+}

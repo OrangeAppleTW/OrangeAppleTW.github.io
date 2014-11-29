@@ -1,0 +1,101 @@
+body{
+	background: url(imgs/universe.jpg);
+	background-size: 1450px;
+}
+div{
+	position:absolute;
+	opacity: .5;	
+}
+div:hover{
+	opacity: 1;
+}
+#jupiter {
+	background: url(imgs/jupiter.png);
+	background-size: 220px;
+	height: 220px;
+	width: 220px;
+	margin-top: 10px;
+	margin-left: 570px;
+}
+#jupiter .name{
+	margin-top: 10px;
+	text-align: center;
+	color: white;
+	display: none;
+	text-shadow: 0 0 4px black;
+}
+#jupiter:hover .name{
+	display: block;
+}
+#mars {
+	background: url(imgs/mars.png);
+	background-size: 230px;
+	height: 230px;
+	width: 230px;
+	margin-top: 180px;
+	margin-left: 220px;
+}
+#mars .name2{
+	margin-top: 10px;
+	text-align: center;
+	color: white;
+	display: none;
+	text-shadow: 0 0 4px black;
+}
+#mars:hover .name2{
+	display: block;
+}
+#saturn {
+	background: url(imgs/saturn.png);
+	background-size: 310px;
+	height: 310px;
+	width: 310px;
+	margin-top: 140px;
+	margin-left: 870px;
+}
+#saturn .name3{
+	margin-top: 10px;
+	text-align: center;
+	color: white;
+	display: none;
+	text-shadow: 0 0 4px black;
+}
+#saturn:hover .name3{
+	display: block;
+}
+#mercury {
+	background: url(imgs/mercury.png);
+	background-size: 235px;
+	height: 235px;
+	width: 235px;
+	margin-top: 400px;
+	margin-left: 420px;
+}
+#mercury .name4{
+	margin-top: 10px;
+	text-align: center;
+	color: white;
+	display: none;
+	text-shadow: 0 0 4px black;
+}
+#mercury:hover .name4{
+	display: block;
+}
+#venus {
+	background: url(imgs/venus.gif);
+	background-size: 250px;
+	height: 250px;
+	width: 250px;
+	margin-top: 400px;
+	margin-left: 735px;
+}
+#venus .name5{
+	margin-top: 10px;
+	text-align: center;
+	color: white;
+	display: none;
+	text-shadow: 0 0 4px black;
+}
+#venus:hover .name5{
+	display: block;
+}

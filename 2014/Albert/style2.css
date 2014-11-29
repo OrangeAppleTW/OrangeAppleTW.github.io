@@ -1,0 +1,22 @@
+ol{
+	color: blue;
+    text-shadow: 0 0 200px black;
+    font-size: 25px;
+    width: 480px;
+    margin: 0px auto;
+}
+body{
+	  background-image: url(http://www.caissa.com/how-to-play-chess/img/chessboard-1.gif);
+      background-size: cover;
+}
+ul{
+	list-style: upper-roman;
+}
+img{
+	 height: 300px;
+	 width: 300px;
+}
+.logo-image {
+			  position: absolute;
+       		  right: 10px;
+}
